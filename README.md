@@ -20,6 +20,6 @@ address and ports like:
   $ go run tcp_client.go IP-ADDRESS PORT1 PORT2
 assuming your firewall allows it.
 To send a file:
-  $ send <filename>
+  $ send 'filename'
     
     
